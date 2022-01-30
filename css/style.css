@@ -1,0 +1,32 @@
+p {
+  color: maroon;
+}
+h1,
+h2,
+h3 {
+  color: blue;
+}
+li {
+  color: green;
+}
+a {
+  color: indigo;
+}
+span {
+  color: black;
+}
+.text {
+  color: orangered;
+}
+#charat {
+  color: chartreuse;
+}
+div.text {
+  color: darksalmon;
+}
+.text.paraagraph {
+  color: crimson;
+}
+p span {
+  color: darkgrey;
+}
